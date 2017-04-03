@@ -8,4 +8,4 @@ Feature: Gmail Login
         And I enter "123456" into input field having id "Passwd"
         When I click on element having id "signIn"
         And I wait for 15 sec
-        Then I close browsers
+        Then I close the browser

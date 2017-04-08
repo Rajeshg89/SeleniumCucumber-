@@ -37,6 +37,7 @@ public class Env
 
 			case "ch":
 			case "chrome":
+//add chrome driver.exe to system path
 				driver = new ChromeDriver();
 				break;
 

@@ -43,6 +43,7 @@ public class Env
 
 			case "ie" :
 			case "internetexplorer":
+//add iedriver.exe to system path
 				driver = new InternetExplorerDriver();
 				break;
 

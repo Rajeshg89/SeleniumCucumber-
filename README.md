@@ -1,4 +1,4 @@
-selenium-cucumber-java-testautohook
+selenium-cucumber-java-test
 =================
 
 selenium-cucumber : Automation Tesing Using Java
